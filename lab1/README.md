@@ -30,3 +30,11 @@ Use one loop. Find max and min of even integers. Compute max – min.
 _Algorithm 4._
 
 Use Streams to find the max and min. Compute max – min.
+
+## **Question 2**. Group by induction
+Let F(n) denote the nth Fibonacci number. Prove F(n) > (4/3)n for n > 4. 
+
+Hints:
+- (1) Use the strong induction
+- (2) Use the fact F(n)=F(n-1)+F(n-2)
+- (3) Since you are using two values you must prove the two base cases: n=5 and n=6.
